@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="background">
+    <file>background.png</file>
+  </qresource>
+  <qresource prefix="test_images">
+    <file>practice_image_2.jpg</file>
+  </qresource>
+  <qresource prefix="count_display">
+    <file>count_display.png</file>
+  </qresource>
+  <qresource prefix="image_display_label">
+    <file>image_display.png</file>
+  </qresource>
+  <qresource prefix="browse_label">
+    <file>browse_button.png</file>
+  </qresource>
+  <qresource prefix="filename_label">
+    <file>filename_display.png</file>
+  </qresource>
+  <qresource prefix="process_label">
+    <file>process_label.png</file>
+  </qresource>
+  <qresource prefix="count_button">
+    <file>count_button.png</file>
+  </qresource>
+  <qresource prefix="software_label">
+    <file>software_name.png</file>
+  </qresource>
+</RCC>
