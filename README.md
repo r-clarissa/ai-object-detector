@@ -38,4 +38,4 @@ git clone https://github.com/r-clarissa/ai-object-detector.git
 5. On your terminal, run the `App.py`.
 
 # Special Note
-This is a school project where functionalities are specified by the UPLB - ICS. To prohibit any undesired academic matters, the complete source code is located on another private repository. You may email me at cgrodriguez@up.edu.ph if you have any questions given that the purpose is validated.
+This is a school project where functionalities are specified by the university. To prohibit any undesired academic matters, the complete source code is located on another private repository. You may email me at cgrodriguez@up.edu.ph if you have any questions given that the purpose is validated.
